@@ -7,7 +7,7 @@ var ctx = cvs.getContext("2d");
 
 
 var windowW = document.documentElement.clientWidth;
-var windowH = document.documentElement.clientHeight - 50;
+var windowH = document.documentElement.clientHeight - 40;
 
 function drawLine(){
     ctx.beginPath();
